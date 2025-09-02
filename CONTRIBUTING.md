@@ -1,5 +1,3 @@
-# CONTRIBUTING.md
-
 # 🔥 Contributing to Juara Rakyat Combat System
 
 First, **THANK YOU** for joining the fight against scammers! 🙏
