@@ -355,7 +355,7 @@ git push origin feature/new-weapon
 
 ## 📜 LICENSE
 
-MIT License - Free to use in the fight against scammers
+AGPL-3.0 License  - Free to use in the fight against scammers
 
 ---
 
